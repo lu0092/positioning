@@ -1,0 +1,38 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+.rojo {
+	background-color: #ee3e64;
+	width: 200px;
+	height: 200px;
+	position: absolute;
+	left: 0;
+	top: 0;
+
+}
+.azul {
+	background-color: #44accf;
+	width: 200px;
+	height: 200px;
+	position: absolute;
+	right: 0px;
+	top: 0;
+
+}
+.verde {
+	background-color: #b7d84b;
+	width: 200px;
+	height: 200px;
+	position: absolute;
+	left: 0px;
+	bottom: 0px;
+}
+.amarillo {
+	background-color: yellow;
+	width: 200px;
+	height: 200px;
+	position: absolute;
+	right: 0px;
+	bottom: 0px;
+}

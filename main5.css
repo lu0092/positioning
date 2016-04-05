@@ -1,0 +1,44 @@
+body
+{
+	margin-left: 100px;
+	margin-right: 200px;
+}
+h3{ 
+margin-left: 100px;
+margin-top: 5
+0px;
+ }
+ .linea {
+ 	border:2px solid black;
+ 	margin-top: 20px;
+ 	width: 75px;
+
+ }
+
+.foto {
+	width: 200px;
+	height: 200px;
+	position: relative;
+	display: inline-block;
+	left: 120px;
+	margin-right: 20px;
+
+
+}
+img { 
+	width: 200px;
+	height: 200px;
+	 }
+#nombre {
+	position: relative;
+	top: 215px;
+	left: 80px;
+	color: red;
+}
+#nombre1
+	{
+		position: relative;
+		top: 215px;
+		left: 100px;
+		color: red;
+	}

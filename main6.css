@@ -1,0 +1,63 @@
+.verde {
+	background: #87D36C;
+	width: 683px;
+	height: 430px;
+}
+.linea { 
+	border: 1px solid white;
+	width: 655px;
+	height: 405px;
+	position: absolute;
+	top: 20px;
+	left: 20px;
+	clear: both;
+
+	}
+
+.interno {
+	border: 1px solid white;
+	width: 100px;
+	height: 150px;
+	position:relative;
+
+	}
+.derecha {
+	float: right;
+	top: 130px;
+	border-right-style: none;
+	
+
+}
+.izquierda {
+	top: 130px;
+	float: left;
+	border-left-style: none;
+
+	
+}
+.redondo {
+	border-radius: 100px;
+	width: 150px;
+	height: 150px;
+	border: 1px solid white;
+	position: absolute;
+	top: 130px;
+	left: 250px;
+}
+#primer
+	{
+		position: absolute;
+		top: 70px;
+		left: 340px;
+	}
+#segundo {
+		position: absolute;
+		right: 105px;
+		top: 123px;
+}
+#tercero {
+		position: absolute;
+		left: 88px;
+		top: 2px;
+
+}
